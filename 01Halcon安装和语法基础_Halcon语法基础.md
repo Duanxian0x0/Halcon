@@ -1,17 +1,4 @@
 ﻿## Halcon语法基础
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/8e0f6e38d0644a4890392ecf395c9655.png)
-
-## 元组类型
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/45e326c64fae44ec9dce8f7621170e9d.png)
-## 图像类型
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/bdbac973d1b84a8ab6811f6d2ca67c06.png)
-
-## 快捷键
-
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/2eb17edfb9424974aff3de8a2f7ca8d5.png)
-
-## if与for
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/ef39b59204bc42ae978e184f0b0f441e.png)
 
 
 ```
