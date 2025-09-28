@@ -1,21 +1,3 @@
 ﻿## Halcon的安装pj版
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/2665974909474b2ca78cede926ec7f65.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/4bf8ab19aa824516964ad3d39e8b93e4.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/1223c7d44d9a48e1b9d42e04cc50ca0a.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/5c476c9658fa44b7b5efae7fd2bfc006.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/fcac64960a9b479d9dc63699abd9a943.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/cdaa777b0d4e482f89b1edfd183f5676.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/c330678723fe4ba2b852ed24c1fa0f09.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/13fd00b66f3a4065aa86497357aac7e0.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/5af1fe91ec254f9fbe60d725cd711a2e.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/4fd5aaf9f73541a18d96c11068ffa8dc.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/58b06635915446438d72b45a060df83b.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/02104167d7734b32a03e5823130e1c97.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/9307fe784eb84c21aa1041d75094a35f.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/45788dcf41ee40ecbc441a183f8ead70.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/acf28b1ebb56475a9e021873ab2e7d2d.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/d8e8979bc45c43c589eb2c22caecde37.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/a7f328f564d941cbb11cc5344a947374.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/d3522673120c41bbad69c93aeefec14c.png)
 
